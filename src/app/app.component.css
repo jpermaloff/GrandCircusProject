@@ -1,0 +1,24 @@
+html {
+    display: flex;
+    margin: 0 !important; 
+    padding: 0;
+    min-height: 10000px;
+}
+
+body {
+    display: flex;
+    margin: 0px !important; 
+    padding: 0;
+    min-height: 100vh;
+}
+
+body {
+    /* margin: 0px, 0px; */
+    display: flexbox;
+}
+
+.page{
+    background-color: #cceef7;
+    height: 100%;
+}
+

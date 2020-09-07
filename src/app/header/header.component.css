@@ -1,0 +1,10 @@
+.header-bar {
+    background-color: lightgrey;
+    height: 50px;
+}
+
+.header-text {
+    font-size: 30px;
+    color: green;
+    font-weight: bold;
+}
